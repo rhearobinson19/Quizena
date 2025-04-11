@@ -66,4 +66,16 @@ These are called in route controllers such as authController.js, quiz1Controller
 ✅ Developer Friendly – Intuitive tools and SQL Editor
 ✅ Free Tier – Great for academic & student projects
 <hr>
-Supabase helped us streamline database operations in our project, letting the team focus on building impactful features. Its ease of use and robust capabilities made it the ideal choice for our full-stack multiplayer quiz game.
+
+## Supabase Integration Flowchart
+![](https://github.com/rhearobinson19/Quizena/blob/master/Images/supabase.jpeg)
+
+<br>
+
+## ER diagrams
+![](https://github.com/rhearobinson19/Quizena/blob/master/Images/er1.png)
+![](https://github.com/rhearobinson19/Quizena/blob/master/Images/er2.png)
+![](https://github.com/rhearobinson19/Quizena/blob/master/Images/er3.png)
+<br>
+
+**Supabase helped us streamline database operations in our project, letting the team focus on building impactful features. Its ease of use and robust capabilities made it the ideal choice for our full-stack multiplayer quiz game.**
